@@ -2,18 +2,20 @@
     
     font-size: 25px;
     padding: 0px;
-    background-color:wheat;
+    background-color:yellowgreen;
     border-radius: 4%;
     margin-right: 5px;
 }
 body{
-    background-color: firebrick
+    
+    background-color: wheat
 
 }
 #foto{
-    margin-top: -140px;
+    margin-top: -90px;
     margin-right: 1230px;
     border-radius: 40%;
+
     
 }
 
@@ -24,9 +26,7 @@ margin-right: 550px;
 border-right: 400px;
 }
 
-.p2{
-    font-style: oblique;
-}
+
 
 .d-block{
     margin-left: 300px;
@@ -34,8 +34,7 @@ border-right: 400px;
     margin-right: 80px;
 
 }
-.nav-item{
-    margin-left: 5px;
-    margin-top: 40px;
-    ma
+
+.form{
+    background-color: white;
 }
